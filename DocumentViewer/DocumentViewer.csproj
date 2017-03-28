@@ -89,6 +89,11 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <None Include="Assets\data\aww.preload" />
+    <None Include="Assets\data\drdoom.preload" />
+    <None Include="Assets\data\harmon.preload" />
+    <None Include="Assets\data\orlandoreview.preload" />
+    <None Include="Assets\data\vast2006.preload" />
     <None Include="project.json" />
   </ItemGroup>
   <ItemGroup>
